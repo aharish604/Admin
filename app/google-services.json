@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "126215697262",
+    "firebase_url": "https://dgpolice-dac86.firebaseio.com",
+    "project_id": "dgpolice-dac86",
+    "storage_bucket": "dgpolice-dac86.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126215697262:android:121d097c59cd93fb",
+        "android_client_info": {
+          "package_name": "com.example.digitalpolice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "126215697262-7rvbvriau6tpied2jb9bnlh0sqo0dm1a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.digitalpolice",
+            "certificate_hash": "241ff5dd69ee12bac0a57375364ba0345ecf1e84"
+          }
+        },
+        {
+          "client_id": "126215697262-bg97kis6v5a4mfp127ubqo90u7kvretn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.digitalpolice",
+            "certificate_hash": "2d3e920071dba88abc8e97d1d2fa43932306190d"
+          }
+        },
+        {
+          "client_id": "126215697262-ftjbng7jjvjs98h9ci48gu9jm0gr7hk7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy0Xayl1SU0tL6MgqCNltRxV9Fp9_AVrg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "126215697262-ftjbng7jjvjs98h9ci48gu9jm0gr7hk7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
